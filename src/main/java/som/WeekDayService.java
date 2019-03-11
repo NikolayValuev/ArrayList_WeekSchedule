@@ -34,7 +34,7 @@ public class WeekDayService {
             String nameDays = nameOfTheWeekDays.get(i);
             System.out.println(nameDays);
         }
-        System.out.println("Здесь метод закончил свою работу");
+        System.out.println("Здесь метод orderDaysDown закончил свою работу");
     }
 
     public ArrayList<String> findMaxLengthWords() {
